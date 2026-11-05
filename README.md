@@ -1,6 +1,6 @@
 # React Habit Tracker
 
-A habit tracking application built with React, TypeScript, and Tailwind CSS.
+A demo application built with React, TypeScript, and Tailwind CSS.
 
 This project was developed as a hands-on learning exercise based on the React Habit Tracker tutorial by Web Dev Simplified. It provides practical experience building an interactive frontend application using modern React and TypeScript.
 
